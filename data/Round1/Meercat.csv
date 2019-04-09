@@ -1,0 +1,24 @@
+"ELICITATION WORKSHOP - PLEASE SPECIFY YOUR WOODLAND TYPE HERE (i.e. Floodplain and Riparian, Temperate Grassy, Temperate Shrubby, Subtropical Grassy, Subtropical Shrubby or Obligate Seeder woodlands)
+DATA ENTRY SPREADSHEET",,,,,,,,,,
+"Instructions:
+Please quantify each of the following vegetation attributes for your woodland type of choice (i.e. Floodplain and Riparian, Temperate Grassy, Temperate Shrubby, Subtropical Grassy, Subtropical Shrubby or Obligate Seeder woodlands). We are interested in the range of values that you might expect to see between sites in any given condition State, as well as your best estimate of the average value. Please think about a ?typical? year in terms of climatic conditions.
+
+",,"Lower bound for range: Realistically, what is the lowest value you would expect for the attribute.
+
+Higher bound for range: Realistically, what is the highest you would expect for the attribute.
+
+Average: What is your best estimate of the average value for the attribute.
+
+Confidence: If you saw 100 woodlands in this condition state, how many times would you expect the value for that attribute to be between your lower and higher bounds. This should be a value between 50 and 100 (otherwise you are essentially saying that it is just as likely that the attribute values are outside this range)",,,,,,,,
+Participant's Code Name: Meercat,,Lower Bound for Range,Higher Bound for Range,Average,Confidence (%) (50-100%),Your Notes/Comments,,0.1,0.1,0.1
+QUESTIONS,,,,,,,,,,
+1,"For woodlands in Exemplar State, what is the likely value for Native Understorey Richness (per square meter)",5,7,6.5,50,I read somewhere that it never exceeds 7-10.,,,,
+2,"For woodlands in Exemplar State, what is the likely value for % Native Ground Cover (sub-shrubs, grasses, herbs) ",30,100,75,100,Victorian plains - from red gum to grey box,,,,
+3,"For woodlands in Exemplar State, what is the likely value for Exotic Understorey Cover (per square meter)",20,45,60,90,I'm not so sure about this,,,,
+4,"For woodlands in Exemplar State, what is the likely value for Midstorey Richness (per hectare)",100,200,300,95,again not sure,,,,
+5,"For woodlands in Exemplar State, what is the likely value for Midstorey Cover (per hectare)",5,7,6.5,50,I read somewhere that it never exceeds 7-10.,,,,
+6,"For woodlands in Exemplar State, what is the likely value for Mature Tree Density (per hectare)",10,80,20,60,The reference for this: www.somewebsite.com,,,,
+7,"For woodlands in Exemplar State, what is the likely value for Immature Tree Density (per hectare)",5,7,6.5,50,I read somewhere that it never exceeds 7-10.,,,,
+8,"For woodlands in Exemplar State, what is the likely value for Canopy Cover (per hectare)",10,80,20,60,The reference for this: www.somewebsite.com,,,,
+9,"For woodlands in Exemplar State, what is the likely value for Tree Health (per hectare)",20,45,60,90,I'm not so sure about this,,,,
+10,"For woodlands in Exemplar State, what is the likely value for Soil Health (per sample)",100,200,300,95,again not sure,,,,
